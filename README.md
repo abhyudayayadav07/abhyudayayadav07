@@ -12,6 +12,12 @@
 
 🌱 I’m currently learning Backend Development and in the journey of becoming a full stack web developer.
 
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav23agrawal&show_icons=true&locale=en" alt="vaibhav23agrawal" /></div>
+<br>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav23agrawal&show_icons=true&locale=en&layout=compact" alt="vaibhav23agrawal" /></div>
+<br>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav23agrawal&" alt="vaibhav23agrawal" /></div>
+<br>
 
 
 <!---
