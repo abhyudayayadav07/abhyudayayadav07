@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/abhyudayayadav07/abhyudayayadav07.svg?cache=remove) <br>
+
 👋 Hi, Welcome to my Github Profile! I am Abhyudaya Yadav, a Computer Science and Engineering Graduate from CSVTU, Bhilai(C.G). Feel free to connect here.
 
 
