@@ -13,7 +13,7 @@
 🌱 I’m currently learning Backend Development and in the journey of becoming a full stack web developer.
 
 
-
+![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=abhyudayayadav07&count_private=true&show_icons=true&theme=radical)
 
 <!---
 abhyudayayadav07/abhyudayayadav07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
