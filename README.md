@@ -23,8 +23,9 @@
 <a href="https://x.com/AbhyudayaY2048" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="X"></a>
 
 </div>
-
+<div align="center">
 ![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=abhyudayayadav07&count_private=true&show_icons=true&theme=radical)
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhyudayayadav07&layout=compact)](https://github.com/abhyudayayadav07/github-readme-stats)
 
