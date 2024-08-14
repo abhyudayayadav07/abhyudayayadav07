@@ -12,6 +12,9 @@
 
 🌱 I’m currently learning Backend Development and in the journey of becoming a full stack web developer.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhyudayayadav07&theme=onedark)](https://github.com/abhyudayayadav07/github-profile-trophy)
+
+
 
 ![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=abhyudayayadav07&count_private=true&show_icons=true&theme=radical)
 
