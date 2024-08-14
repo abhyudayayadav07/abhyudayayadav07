@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhyudayayadav07&layout=compact)](https://github.com/abhyudayayadav07/github-readme-stats)
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhyudayayadav07&" alt="abhyudayayadav07" /></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhyudayayadav07&" alt="abhyudayayadav07" /></div>
 
 <!---
 abhyudayayadav07/abhyudayayadav07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
