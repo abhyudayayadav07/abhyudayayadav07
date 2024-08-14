@@ -16,11 +16,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhyudayayadav07&theme=onedark)](https://github.com/abhyudayayadav07/github-profile-trophy)
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/abhyudaya-yadav-3b0a541b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/abhyudayayadav7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://x.com/AbhyudayaY2048" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="X"></a>
 
-
+</div>
 
 ![Abhyudaya's github stats](https://github-readme-stats.vercel.app/api?username=abhyudayayadav07&count_private=true&show_icons=true&theme=radical)
 
