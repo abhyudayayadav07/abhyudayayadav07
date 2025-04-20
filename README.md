@@ -8,8 +8,8 @@
 1. HTML5
 2. CSS3
 3. Javascript
-4. jQuery
-5. Bootstrap
+4. ReactJS
+5. Tailwind CSS
 6. Data Structures and Algorithms
 
 🌱 I’m currently learning Backend Development and in the journey of becoming a full stack web developer.
