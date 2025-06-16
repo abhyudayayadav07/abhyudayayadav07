@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhyudayayadav07&label=Profile%20views&color=0e75b6&style=flat" alt="abhyudayayadav07" /> </p>
 
-👋 Hi, Welcome to my Github Profile! I am Abhyudaya Yadav, a Computer Science and Engineering Graduate from CSVTU, Bhilai(C.G). Feel free to connect here.
+👋 Hi, Welcome to my Github Profile! I am Abhyudaya Yadav, a Computer Science and Engineering Graduate. Feel free to connect here.
 
 
 👀 Topics that currently have my interest is Web development. I possess sufficient knowledge in the mentioned fields :
